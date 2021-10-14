@@ -1,6 +1,3 @@
-# F-lattice-recursion
-
-
 This repository contains code to produce tile odometers and tiles following the algorithm in 
 https://nitromannitol.github.io/manuscripts/farey_recursion.pdf
 
