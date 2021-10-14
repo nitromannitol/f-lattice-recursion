@@ -1,4 +1,4 @@
-# f-lattice-recursion
+# $F$-lattice-recursion
 
 
 This repository contains code to produce tile odometers and tiles following the algorithm in 
