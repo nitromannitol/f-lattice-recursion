@@ -4,7 +4,7 @@ This repository contains Julia code to produce tile odometers and tiles for the 
 
 > Ahmed Bou-Rabee, *Integer superharmonic matrices on the F-lattice*, [arXiv:2110.07556](https://arxiv.org/abs/2110.07556). [PDF](https://nitromannitol.github.io/manuscripts/farey_recursion.pdf)
 
-All heights are computed with exact integer arithmetic.
+All heights are computed with exact integer arithmetic. The code was updated in November 2026, when Claude was used to repair a minor error in the original version.
 
 ## Instructions
 
